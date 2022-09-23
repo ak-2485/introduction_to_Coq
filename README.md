@@ -1,5 +1,5 @@
 
-This repository contains materials for the Bindel group meeting introducing the Coq proof assistant. 
+This repository contains materials for the Bindel group meeting on September 23, 2022 introducing the Coq proof assistant. 
 
 We used a [web-based environment for Coq](https://coq.vercel.app/) developed by Emilio Jesús Gallego Arias (Inria, Université de Paris, IRIF), Shachar Itzhaky (Technion), and contributors.
 
